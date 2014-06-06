@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma-ng-scenario.git"
+    "url": "https://github.com/tapmantwo/karma-ng-scenario.git"
   },
   "keywords": [
     "karma-plugin",
